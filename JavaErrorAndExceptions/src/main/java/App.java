@@ -104,6 +104,7 @@ public class App {
         System.out.println("The average grade of students of " + group.getId() + " group of " +
                 faculty.getName() + " is " + averageMark);
 
+        //3
         averageMark = 0;
         countOfMarks = 0;
 
